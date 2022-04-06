@@ -2,3 +2,4 @@ Script that prints current working directory
 Display contents list of current directory
 Script that changes the working directory to the user's home directory
 Display current directoy a in long format
+Display current directory contents, including hidden files(starting with .) in a long format
