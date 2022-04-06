@@ -10,4 +10,4 @@
 #10. Script that delete the directory my_first_directory that is in the /tmp directory
 #11. A script that changes the working directory to the previous one
 #12. A script that list all files(even ones with names beginning with a period character, which are normally hidden) in the current directory, and the parent working directory and /boot directory (in order) in all in the long format
-
+#13. A script that prints the type of the file named iamafile and the file will be in the /tmp directory when we will run your script
