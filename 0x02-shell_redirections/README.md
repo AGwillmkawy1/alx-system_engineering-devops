@@ -28,4 +28,6 @@
 
 #14. A script that displays line containing the pattern "root"  from the file /etc/passwd
 
-#15.
+#15. A script that displays the number of lines containing this pattern "bin" in the file /etc/passwd
+
+#16. 
