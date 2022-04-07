@@ -16,4 +16,6 @@
 
 #8. A script that prints the result of the addition of 128 with the value store in the environment variable TRUEKNOWLEDGE. followed by new line.
 
-#9.      
+#9. A script that prints the result  of POWER and DIVIDE . followed by new line and also things to note POWER and DIVIDE are environment variables.
+
+#10.       
