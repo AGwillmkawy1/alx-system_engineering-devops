@@ -22,4 +22,6 @@
 
 #11. A script that counts the number of directories and sub-directories in the current directory. but the current and parent directory should not be taken in the count while hiddwen directories should be counted.
 
-#12.   
+#12. A script that displays 10 newest files in the current directory but onle files per line and also sorted from newest to the oldest file .
+
+#13.   
