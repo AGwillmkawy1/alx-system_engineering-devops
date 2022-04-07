@@ -15,4 +15,7 @@
 
 #8. A script that writes into the file ls_cwd_content the result of the command ls -la. and if the file already exist , it should be overwritten. and also if the file already exist create it.
 
-#9. 
+#9. A script that duplicates the lat line of the file iacta.
+
+
+#10.  
