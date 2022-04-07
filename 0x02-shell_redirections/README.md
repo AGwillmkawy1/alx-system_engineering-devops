@@ -34,4 +34,6 @@
 
 #17. A script that dislpays the lines in the file /etc/passwd that do not contain the pattern "bin".
 
-#18. 
+#18. A script that displays all the lines of the file /etc/ssh/sshd_config starting with a letter and including capital letter as well.
+
+#19.  
