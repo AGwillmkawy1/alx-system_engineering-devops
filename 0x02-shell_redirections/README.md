@@ -24,4 +24,6 @@
 
 #12. A script that displays 10 newest files in the current directory but onle files per line and also sorted from newest to the oldest file .
 
-#13.   
+#13. A scripts that takes a list of words as input and prints only words that appear exactly one. input format should be one line, one word and ouput format should be one line, one word.
+
+#14. 
