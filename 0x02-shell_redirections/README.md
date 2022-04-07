@@ -48,4 +48,6 @@
 
 #24. A script that lists all the files with a .gif extension in the current directory and its sub-directories. and hidden files should be listed and also the names of the file should be displayed  without their extensions. files should be sorted by  byte values, but case insensitive. one file per line and listing should end with new line.
 
-#25.   
+#25.  A script that decodes acrostics that use the first letter of each line. the decoded message has to end with a new line.
+
+#26.  
