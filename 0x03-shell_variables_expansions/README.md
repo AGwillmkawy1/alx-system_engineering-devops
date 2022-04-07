@@ -20,4 +20,6 @@
 
 #10. A script that displays the result of the breath to the power of LOVE.
 
-#11.        
+#11. A script that converts a number from  base 2 to base 10 and a number in base 2 is stored in environment variable BINARY, and it must followed by new line.
+
+#12.         
