@@ -5,3 +5,6 @@
 #3. A script that displays the contents of the /etc/passwd and /etc/hosts
 
 #4. A script that displays the 10 lines of the /etc/passwd
+
+
+#5. A script that displays the first 10 lines of the /etc/passwd
