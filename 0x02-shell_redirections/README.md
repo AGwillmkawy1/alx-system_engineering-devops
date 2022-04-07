@@ -12,3 +12,7 @@
 #6. A srcipt that displays the third line of the file iacta and the file will be in the working directory
 
 #7. A shell script that creates a file named exactlty \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line
+
+#8. A script that writes into the file ls_cwd_content the result of the command ls -la. and if the file already exist , it should be overwritten. and also if the file already exist create it.
+
+#9. 
