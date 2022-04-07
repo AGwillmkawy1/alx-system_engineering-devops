@@ -10,3 +10,5 @@
 #5. A script that displays the first 10 lines of the /etc/passwd
 
 #6. A srcipt that displays the third line of the file iacta and the file will be in the working directory
+
+#7. A shell script that creates a file named exactlty \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line
