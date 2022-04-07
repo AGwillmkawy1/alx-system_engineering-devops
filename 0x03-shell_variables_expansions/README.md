@@ -12,4 +12,6 @@
 
 #6. A script that creates new local variables. Name: BEST and Value: School.
 
-#7.    
+#7. A script that creates new global variable. Name: BEST and Value: School.
+
+#8.     
