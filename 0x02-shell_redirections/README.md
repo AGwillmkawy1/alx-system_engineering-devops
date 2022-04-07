@@ -44,4 +44,6 @@
 
 #22. A script that displays all the users and their home directories. sorted by users and based on /etc/passwd file.
 
-  
+#23. A command that finds all empty files and directories in the current directories and sub-directories. Only the names of the files and directories should be displayed (not the entire path) and also hidden files should be displayed, one file name per line, and also listing should end with a new line.
+
+#24.  
