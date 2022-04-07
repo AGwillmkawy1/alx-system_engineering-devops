@@ -30,4 +30,6 @@
 
 #15. A script that displays the number of lines containing this pattern "bin" in the file /etc/passwd
 
-#16. 
+#16. A script that displays the lines containing the pattern "root"  and 3 lines after them in the file /etc/passwd
+
+#17. 
