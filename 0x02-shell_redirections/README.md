@@ -26,4 +26,6 @@
 
 #13. A scripts that takes a list of words as input and prints only words that appear exactly one. input format should be one line, one word and ouput format should be one line, one word.
 
-#14. 
+#14. A script that displays line containing the pattern "root"  from the file /etc/passwd
+
+#15.
