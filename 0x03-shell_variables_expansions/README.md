@@ -10,4 +10,6 @@
 
 #5. A script that lists all local variables and environment variables and functions.
 
-#6.   
+#6. A script that creates new local variables. Name: BEST and Value: School.
+
+#7.    
