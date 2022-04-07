@@ -40,4 +40,6 @@
 
 #20. A script that removes all letters c and C from the input.
 
- 
+#21. A script that reverse its input.
+
+#22.  
