@@ -46,4 +46,6 @@
 
 #23. A command that finds all empty files and directories in the current directories and sub-directories. Only the names of the files and directories should be displayed (not the entire path) and also hidden files should be displayed, one file name per line, and also listing should end with a new line.
 
-#24.  
+#24. A script that lists all the files with a .git extension in the current directory and its sub-directories. and hidden files should be listed and also the names of the file should be displayed  without their extensions. files should be sorted by  byte values, but case insensitive. one file per line and listing should end with new line.
+
+#25.   
