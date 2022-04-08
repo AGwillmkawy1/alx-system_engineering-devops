@@ -8,4 +8,6 @@
 
 #4. A script that creates an empty file called hello.
 
-#5.    
+#5. A script that adds execute permission to the owner of the file hello . and also the file hello will be in working  directory.
+
+#6.     
