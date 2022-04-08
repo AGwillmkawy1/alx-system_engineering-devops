@@ -12,4 +12,6 @@
 
 #6. A script that adds execute permission to the owner, group owner and read permission to the other users, to the file hello. and also the file hello will be in the working directory.
 
-#7.      
+#7. A script that  adds execution permission to the owner, the group owner and the other users to the file hello.
+
+#8.        
