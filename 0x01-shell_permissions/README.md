@@ -28,4 +28,6 @@
 
 #14. A script that changes the owner to vincent and the group owner to staff fro all the files and directories and in the working directory.
 
-#15.            
+#15. A script that changes the owner and the group owner of _hello to vincent and staff respectively. and also  the file _hello is in the working directory, and is the symbolic link.
+
+#16.           
