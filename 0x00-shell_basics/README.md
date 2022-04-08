@@ -32,4 +32,6 @@
 
 #16. A script that deletes all the files in the working directory that end with ~ .
 
-#17.  
+#17. A script that creates welcome/, welcome/to and welcome/to/school in the current directory. and two spaces and lines are not allowed .
+
+#18.   
