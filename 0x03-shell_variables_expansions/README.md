@@ -24,4 +24,6 @@
 
 #12. A Script that all possible combinations of two letters. except oo.letters are lowercases. one combination per line. output should be alphabetic order.
 
-#13.          
+#13. A script that prints a number with two decimal places, followed by new line. the number will be stored in environment variable NUM.
+
+#14.           
