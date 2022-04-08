@@ -26,4 +26,6 @@
 
 #13. A script that prints a number with two decimal places, followed by new line. the number will be stored in environment variable NUM.
 
-#14.           
+#14. A script that converts a number from base 10 to hexadecimal which is base 16 and followed by new line. the number in base 10 is stored in the environment variable DECIMAL. 
+
+#15.           
