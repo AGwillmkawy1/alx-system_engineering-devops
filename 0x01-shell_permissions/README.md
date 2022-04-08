@@ -30,4 +30,6 @@
 
 #15. A script that changes the owner and the group owner of _hello to vincent and staff respectively. and also  the file _hello is in the working directory, and is the symbolic link.
 
-#16.           
+#16. A script that changes the owner of the file hello to betty . ony if it owned by user guillaume. and file hello will be in the working directory.
+
+#17.            
