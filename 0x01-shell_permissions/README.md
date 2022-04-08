@@ -2,4 +2,6 @@
 
 #1. A script that prints the effective username of the current user.
 
-#2.  
+#2. A script that prints group s the current user is a play of.
+
+#3.  
