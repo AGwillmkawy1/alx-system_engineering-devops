@@ -36,4 +36,5 @@
 
 #18. A script that lists all files and directories separeted by commas(,) . note this directory names should end with slash forward, files and directories started by . or .. should be listed, listing should be alpha ordered except for the directories . and .. which should be listed at the very beginning, only digits    and letters are used to sort; digits should come first, you can assume that all the files we will test  with will have atleast one digit or one letter, the listing should end with a new line.
 
-#19.   
+#19. A script that creae magic file school.mgc that can be used with command file to detect School data files . School data files always contain the string      SCHOOL at offset 0.
+   
