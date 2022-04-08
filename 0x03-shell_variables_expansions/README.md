@@ -30,4 +30,6 @@
 
 #15. A script that encodes and decodes a text using the rot13 encryption. Assume ASCII.
 
-#16.             
+#16. A script that prints every other line from the input , starting with the first line.
+
+#17              
