@@ -14,4 +14,6 @@
 
 #7. A script that  adds execution permission to the owner, the group owner and the other users to the file hello.
 
-#8.        
+#8. A script that gives no permission at all to the owner and the group owner but all the permission must be taken   by the other users to the file hello. and also the file will be in the working directory and use no commas in the script.
+
+#9.        
