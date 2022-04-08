@@ -34,4 +34,6 @@
 
 #17. A script that creates welcome/, welcome/to and welcome/to/school in the current directory. and two spaces and lines are not allowed .
 
-#18.   
+#18. A script that lists all files and directories separeted by commas(,) . note this directory names should end with slash forward, files and directories started by . or .. should be listed, listing should be alpha ordered except for the directories . and .. which should be listed at the very beginning, only digits    and letters are used to sort; digits should come first, you can assume that all the files we will test  with will have atleast one digit or one letter, the listing should end with a new line.
+
+#19.   
