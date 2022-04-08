@@ -16,4 +16,6 @@
 
 #8. A script that gives no permission at all to the owner and the group owner but all the permission must be taken   by the other users to the file hello. and also the file will be in the working directory and use no commas in the script.
 
-#9.        
+#9. A script that sets the mode of the file hello and also this file will be in the working directory.
+
+#10.        
