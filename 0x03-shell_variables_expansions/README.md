@@ -22,4 +22,6 @@
 
 #11. A script that converts a number from  base 2 to base 10 and a number in base 2 is stored in environment variable BINARY, and it must followed by new line.
 
-#12.         
+#12. A Script that all possible combinations of two letters. except oo.letters are lowercases. one combination per line. output should be alphabetic order.
+
+#13.          
