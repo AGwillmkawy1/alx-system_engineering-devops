@@ -32,4 +32,6 @@
 
 #16. A script that prints every other line from the input , starting with the first line.
 
-#17              
+#17. A script that adds two numbers stored in the environment variables  WATER and STiR and prints the result. WATER is in the base water, STIR is in the base stir. the result should be in the base bestchol.
+
+              
