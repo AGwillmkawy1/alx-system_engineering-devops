@@ -20,4 +20,6 @@
 
 #10. A script that sets the mode of the file hello the same as olleh's mode and both files hello and olleh will be in the working directory. the mode of ollen will not always be 664 remember the script works for any mode.
 
-#11.         
+#11. A script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. and also remember that Regular files should not be changed.
+
+#12.          
