@@ -18,4 +18,6 @@
 
 #9. A script that sets the mode of the file hello and also this file will be in the working directory.
 
-#10.        
+#10. A script that sets the mode of the file hello the same as olleh's mode and both files hello and olleh will be in the working directory. the mode of ollen will not always be 664 remember the script works for any mode.
+
+#11.         
