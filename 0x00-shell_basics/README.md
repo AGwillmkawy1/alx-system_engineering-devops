@@ -30,4 +30,6 @@
 
 #15. A script that moves all the files beginning with the uppercase letter to the directory /tmp/u. Assume that the directory /tmp/u will exist when we will run your script.
 
-#16. 
+#16. A script that deletes all the files in the working directory that end with ~ .
+
+#17.  
