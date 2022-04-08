@@ -28,4 +28,6 @@
 
 #14. A script that converts a number from base 10 to hexadecimal which is base 16 and followed by new line. the number in base 10 is stored in the environment variable DECIMAL. 
 
-#15.           
+#15. A script that encodes and decodes a text using the rot13 encryption. Assume ASCII.
+
+#16.             
