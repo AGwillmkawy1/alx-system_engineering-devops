@@ -26,4 +26,6 @@
 
 #13. A script that changes the group owner to school for the file hello.
 
-#14.           
+#14. A script that changes the owner to vincent and the group owner to staff fro all the files and directories and in the working directory.
+
+#15.            
